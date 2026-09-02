@@ -31,6 +31,3 @@ Each peptide is assigned a binary label:
 | 1 | ACE-inhibitory peptide |
 | 0 | Non-ACE-inhibitory peptide |
 
----
-
-# Repository Structure
