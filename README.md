@@ -98,7 +98,7 @@ ACE-PeptideNet is also available as a web-based prediction system supporting bot
 
 - Primary server: https://ace.peptideinnov.com
 - Overseas mirror: https://global.ace.peptideinnov.com
-- Web interface: https://zhu-d-x.github.io/ACE-PeptideNet-Web/
+- Web interface: https://github.com/zhu-d-x/ACE-PeptideNet-Web
 
 ---
 
